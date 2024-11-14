@@ -30,7 +30,7 @@ export default function Home() {
           <Blog />
         </div>
         <div className="card-actions justify-center">
-  <Link href="https://drive.google.com/file/d/1V-_DtQzgHwMwQdiimO5PKOXPeiGAoli2/view?usp=drive_link">
+  <Link href="https://drive.google.com/file/d/1B33THt2-Y4a8uD6c9nr5_ClbG2TICdLF/view?usp=drive_link">
     <button className="btn btn-primary text-lg py-3 px-6 rounded-lg shadow-lg transform transition duration-300 hover:bg-blue-700 hover:scale-105 focus:outline-none focus:ring-4 focus:ring-blue-300">
       Click for PPT
     </button>
